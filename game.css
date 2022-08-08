@@ -1,0 +1,36 @@
+. principal {
+    largura : 660px ; _
+    margem : 0 automático;
+}
+
+img {
+	margem  : 10 0 0 10;
+}
+
+# pontuação {
+	margem  : 0 0 0 500px;
+	tamanho da fonte : 25px;
+}
+
+
+. botão_jogo {
+    background :  -moz-linear-gradient (topo central , #EDEDED  5  % , #DFDFDF  100  % ) repita a rolagem 0  0  #EDEDED ;
+    borda :  1 px sólido # DCDCDC ;
+    raio da borda :  6 px  6 px  6 px  6 px ;
+    box-shadow :  0  1 px  0  0  # FFFFFF inserido;
+    cor :  # 777777 ;
+    exibição : bloco em linha;
+    família de fontes : arial;
+    tamanho da fonte :  15 px ;
+    peso da fonte : negrito;
+    preenchimento :  6px 24px  ; _ _
+    decoração de texto : nenhuma;
+    text-shadow :  1 px  1 px  0  # FFFFFF ;
+}
+. button_game : hover {
+    background :  -moz-linear-gradient (topo central ,  #DFDFDF  5 % ,  #EDEDED  100 % ) repetir rolagem 0  0  #DFDFDF ;
+}
+. button_game : ativo {
+    posição : relativa;
+    topo :  1px ; _
+}
